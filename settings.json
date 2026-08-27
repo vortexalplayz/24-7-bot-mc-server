@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "theBOYZplay.aternos.me",
+    "ip": "zaBOYZplayz.aternos.me",
     "port": 16774,
     "version": "1.20.1",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular sigma",
-        "yo in a rizzler",
-        "say 67"
+        "im the best player on minecraft",
+        "yall are brainrotted noobs exept few people",
+        "prateek is a donkey"
       ]
     },
     "chat-log": true,
