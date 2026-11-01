@@ -8,7 +8,7 @@
   "server": {
     "ip": "MCplayz.aternos.me",
     "port": 42449,
-    "version": "1.26.2",
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "im the best player on minecraft",
-        "yall are brainrotted noobs exept few people",
-        "prateek is a donkey"
+        "welcome",
+        "im NOT a bot"
       ]
     },
     "chat-log": true,
